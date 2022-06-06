@@ -1,5 +1,5 @@
 # CrappyBird
-Klon gry FlappyBird.
+Gra inspirowana grą FlappyBird.
 
 ## Wstęp
 CrappyBird jest próbą opanowania modułu PyGame oraz projektem zaliczeniowym z wprowadzenia do programowania.
