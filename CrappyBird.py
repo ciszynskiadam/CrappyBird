@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@authors: Weronika Bizoń 261652, Kacper Możdżeń 261831, Adam Ciszyński 261784
-"""
-
 import pygame, random
 from pygame.locals import *
 from configparser import ConfigParser
