@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
+    @author: Adam Ciszyński, Kacper Możdżeń
+"""
+
 import pygame, random
 from pygame.locals import *
 from configparser import ConfigParser
