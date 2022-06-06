@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    @author: Adam Ciszyński
+    @authors: Adam Ciszyński
 """
 
 import pygame, random
